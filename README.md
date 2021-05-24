@@ -1,6 +1,6 @@
 # Top Trumps Game
 ### Project Description
-The project was created using python and requires importing the packages random and time to work properly. The aim of this project is to recreate the Top Trumps game in a virtual environment. In the end the user will be able to play against the computer and experience the game from a new perspective.
+The project was created using python and requires importing the packages random, time and colored from termcolor to work properly. The aim of this project is to recreate the Top Trumps game in a virtual environment. In the end the user will be able to play against the computer and experience the game from a new perspective.
 
 Top Trumps is a card game consisting of a pack of cards belonging to one theme. The theme chosen for this assignment is Harry Potter which means that for each of the 28 characters there is a card explaining their magic, cunning, courage, wisdom, and temper based on numerical data. The goal of the game is to compare the values and to win by having the highest respectively the lowest number.
 
